@@ -2,6 +2,14 @@
   "name": "canva-magical-mouse-effect",
   "version": "0.0.1",
   "description": "canva-magical-mouse-effect",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheikhFarid99/canva-magical-mouse-effect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SheikhFarid99/canva-magical-mouse-effect/issues"
+  },
+  "homepage": "https://github.com/SheikhFarid99/canva-magical-mouse-effect#readme",
   "main": "dist/index.js",
   "scripts": {
     "build": "npx babel src --out-dir dist"
